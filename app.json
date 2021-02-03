@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Mudols Testing ",
+    "slug": "moduls-testing",
+    "privacy": "public",
+    "sdkVersion": "39.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.6.0",
+    "orientation": "portrait",
+    "icon": "./assets/imgs/aaa.png",
+    "splash": {
+      "image": "https://i.pinimg.com/originals/3e/c0/1d/3ec01d6c81881c1285416d6805c04e06.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Simplefactory, Testing Moduls",
+    "android": {
+      "package": "com.shiar.modulstesting"
+    }
+  }
+}
